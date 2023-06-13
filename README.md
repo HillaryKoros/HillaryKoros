@@ -1,4 +1,7 @@
-I am Koros Hillary, currently serving as a Spatial Data Scientist at the ([Geospatial Research International](https://georesearch.co.ke/)) Nairobi, Kenya.I hold a Bachelor's Degree in Geospatial Information Science with Information Technology, which I obtained from Maseno University in 2018. My professional expertise encompasses Geographic Information Science (GIS), remote sensing, Earth Observation, and GIS Programming.  I am particularly interested in working with geospatial big data, machine learning, and cloud computing platforms such as ([Google Earth Engine](https://earthengine.google.com/) and [Jupyter Notebook](https://jupyter.org/) ) for data analysis, especially in the field of GIS. Additionally, I have a keen interest in Data Science.
+I am Koros Hillary, currently serving as a Spatial Data Scientist at the ([Geospatial Research International](https://georesearch.co.ke/)) Nairobi, Kenya.
+I hold a Bachelor's Degree in Geospatial Information Science with Information Technology, which I obtained from Maseno University in 2018. 
+My professional expertise encompasses Geographic Information Science (GIS), remote sensing, Earth Observation, and GIS Programming. 
+I am particularly interested in working with geospatial big data, machine learning, and cloud computing platforms such as ([Google Earth Engine](https://earthengine.google.com/) and [Jupyter Notebook](https://jupyter.org/) ) for data analysis, especially in the field of GIS.
 
 I actively advocate for open science and believe in the importance of reproducible research.
 

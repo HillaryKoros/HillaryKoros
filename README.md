@@ -9,21 +9,20 @@ My professional expertise encompasses Geographic Information Science (GIS), remo
 I am particularly interested in working with geospatial big data, machine learning, and cloud computing platforms such as ([Google Earth Engine](https://earthengine.google.com/) and [Jupyter Notebook](https://jupyter.org/) ) for data analysis, especially in the field of GIS.
 
 ---
----
 ## Regarding my technical skills, I am a constant learner and Technology Enthusiast . 
 At the moment I collaborate  on Projects themes such as:
 - **Remote Sensing**  
 - **Programming** 
 - **Data Science and Machine Learning**
 ---
----
+
 ### Stalk and Connect with me on:
 
 [<img align="left" alt="https://fmuchembi.github.io/fmuchembi/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="FaithM | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="FaithM  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
----
+
 <br/>
 ---
 
@@ -38,7 +37,7 @@ At the moment I collaborate  on Projects themes such as:
 [<img  alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img  alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 
----
+
 ---
 [website]: https://hillarykoros.github.io/fmuchembi/
 [linkedin]: https://www.linkedin.com/in/faith-muchembi/

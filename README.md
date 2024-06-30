@@ -1,4 +1,4 @@
-## Hillary Koros
+# Hillary Koros
 
 [![GitHub Badge](https://img.shields.io/github/followers/HillaryKoros?style=social)](https://github.com/HillaryKoros?tab=followers)
 

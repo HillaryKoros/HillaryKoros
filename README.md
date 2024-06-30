@@ -8,7 +8,7 @@ For a closer look at his projects, please visit his GitHub repositories at <http
 
 ---
 
-### Open-source Projects
+### Projects
 
 - **R:** Statistical Modelling
 - **Python:** Data Science, ML, DL
@@ -18,7 +18,7 @@ For a closer look at his projects, please visit his GitHub repositories at <http
 ### Latest Blog Posts
 
 <!-- HASHNODE:START -->
-- 
+- Extracting Spatio-temporal Pixel Level dataset for collection of features at point and polygon features
 <!-- HASHNODE:END -->
 
 ---

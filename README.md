@@ -10,9 +10,9 @@ For a closer look at his projects, please visit his GitHub repositories at <http
 
 ### Open-source Projects
 
-- **R packages:** 
-- **Python packages:**
-- **Google Earth Engine:** 
+- **R:** Statistical Modelling
+- **Python:** Data Science, ML, DL
+- **Google Earth Engine:** Earth Observation, Remote Sensing
 ---
 
 ### Latest Blog Posts

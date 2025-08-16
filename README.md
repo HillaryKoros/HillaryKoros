@@ -15,12 +15,6 @@ For a closer look at  my projects, please visit my GitHub repositories at <https
 - **Google Earth Engine:** Earth Observation, Remote Sensing
 ---
 
-### Latest Blog Posts
-
-<!-- HASHNODE:START -->
-- Extracting Spatio-temporal Pixel Level dataset for collection of features at point and polygon features
-<!-- HASHNODE:END -->
-
 ---
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=HillaryKoros&show_icons=true)

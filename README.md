@@ -140,9 +140,6 @@
 ---
 
 <div align="center">
-
-🐞
-
   <img src="./assets/snake-preview.svg" width="100%" alt="Bug munching contributions"/>
 </div>
 
